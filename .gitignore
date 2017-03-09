@@ -2,4 +2,4 @@
 *.py[cod]
 *.so
 .idea
-.pyc
+*.pyc
